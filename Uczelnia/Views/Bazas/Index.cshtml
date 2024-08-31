@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Uczelnia.Models.Baza>
+
+@{
+    ViewBag.Title = "Dziennik";
+}
+
+<h2>Index</h2>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+       
+        <th>
+            @Html.DisplayNameFor(model => model.Student.index)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Przedmiot.NazwaPrzemiotu)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prowadzacy.Identyfikator)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Jaka.jakatoocena)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ocena.ocenka)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    
+    <td>
+        @Html.DisplayFor(modelItem => item.Student.index)
+
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Przedmiot.NazwaPrzemiotu)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Prowadzacy.Identyfikator)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Jaka.jakatoocena)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Ocena.ocenka)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.BazaId }) |
+        @Html.ActionLink("Details", "Details", new { id = item.BazaId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.BazaId })
+    </td>
+</tr>
+}
+
+</table>

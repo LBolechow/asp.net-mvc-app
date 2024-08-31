@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Uczelnia.Models.Jaka>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.jakatoocena)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.jakatoocena)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.JakaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.JakaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.JakaId })
+        </td>
+    </tr>
+}
+
+</table>

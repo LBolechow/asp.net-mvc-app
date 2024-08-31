@@ -1,0 +1,285 @@
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Uczelnia.dll.config
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Uczelnia.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Uczelnia.pdb
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\csc.exe
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\csc.exe.config
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\csc.rsp
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\csi.exe
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\csi.exe.config
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\csi.rsp
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.AppContext.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Console.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Net.Http.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\vbc.exe
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\vbc.exe.config
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\vbc.rsp
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Antlr3.Runtime.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\EntityFramework.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\EntityFramework.SqlServer.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Newtonsoft.Json.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Helpers.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Mvc.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Optimization.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Razor.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.WebPages.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\WebGrease.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\EntityFramework.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\EntityFramework.SqlServer.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Helpers.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Mvc.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Optimization.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.Razor.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.WebPages.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Newtonsoft.Json.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Antlr3.Runtime.pdb
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.AssemblyReference.cache
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.CopyComplete
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.dll
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.pdb
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig1.resources
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.GenerateResource.cache
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig2.resources
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig3.resources
+C:\Users\Lukasz\source\repos\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig4.resources
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Uczelnia.dll.config
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Uczelnia.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Uczelnia.pdb
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csc.exe
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csc.exe.config
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csc.rsp
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csi.exe
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csi.exe.config
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csi.rsp
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.AppContext.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Collections.Immutable.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Console.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Globalization.Calendars.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.Compression.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.FileSystem.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Net.Http.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Net.Sockets.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Reflection.Metadata.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.ValueTuple.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XPath.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\vbc.exe
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\vbc.exe.config
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\vbc.rsp
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\VBCSCompiler.exe
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\VBCSCompiler.exe.config
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Antlr3.Runtime.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.SqlServer.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Microsoft.Web.Infrastructure.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Newtonsoft.Json.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Helpers.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Mvc.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Optimization.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Razor.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Deployment.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Razor.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\WebGrease.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.SqlServer.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Helpers.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Mvc.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Optimization.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Razor.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Deployment.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Razor.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Newtonsoft.Json.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Antlr3.Runtime.pdb
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Helpers.resources.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Mvc.resources.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Optimization.resources.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Razor.resources.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.resources.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.Deployment.resources.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.Razor.resources.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.AssemblyReference.cache
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig1.resources
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig2.resources
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig3.resources
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig4.resources
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.GenerateResource.cache
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.CoreCompileInputs.cache
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.CopyComplete
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.dll
+H:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.pdb
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Uczelnia.dll.config
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Uczelnia.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Uczelnia.pdb
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csc.exe
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csc.exe.config
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csc.rsp
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csi.exe
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csi.exe.config
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\csi.rsp
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.AppContext.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Collections.Immutable.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Console.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.Compression.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.FileSystem.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Net.Http.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Net.Sockets.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.ValueTuple.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XPath.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\vbc.exe
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\vbc.exe.config
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\vbc.rsp
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\VBCSCompiler.exe
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\roslyn\VBCSCompiler.exe.config
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Antlr3.Runtime.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.SqlServer.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Microsoft.Web.Infrastructure.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Newtonsoft.Json.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Helpers.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Mvc.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Optimization.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Razor.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Deployment.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Razor.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\WebGrease.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\EntityFramework.SqlServer.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Helpers.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Mvc.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Optimization.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.Razor.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Deployment.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\System.Web.WebPages.Razor.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Newtonsoft.Json.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Antlr3.Runtime.pdb
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Helpers.resources.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Mvc.resources.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Optimization.resources.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.Razor.resources.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.resources.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.AssemblyReference.cache
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig1.resources
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig2.resources
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig3.resources
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.Migrations.mig4.resources
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.GenerateResource.cache
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.CoreCompileInputs.cache
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.csproj.CopyComplete
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.dll
+D:\Bolechow NET\Uczelnia\Uczelnia\obj\Debug\Uczelnia.pdb

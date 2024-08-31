@@ -1,0 +1,26 @@
+﻿@model Uczelnia.Models.Przedmiot
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Przedmiot</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NazwaPrzemiotu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NazwaPrzemiotu)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PrzedmiotId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
